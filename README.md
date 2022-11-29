@@ -32,6 +32,18 @@ a custom board via I²C protocol.
   * Long press (more than 1s): backlight regulation mode; the display
     brightness starts to "breathe" until the pressure on the button is released
 
+## Media
+
+Two media found searching trough old personal photos:
+
+| ![Early in development](https://user-images.githubusercontent.com/24441263/204567173-915ca825-a3a0-4378-93a0-531834f1004e.jpg) |
+|---|
+| Photo of the two boards attached, early in development |
+
+https://user-images.githubusercontent.com/24441263/204564899-a58a6e14-7501-4266-9a2e-864c33c49ffa.mp4
+
+Short animation of one of the latest builds
+
 ## Sources
 
 * [Synlab Software Toolchain](https://www.silabs.com/developers/8-bit-8051-microcontroller-software-studio)
